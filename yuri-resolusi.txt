@@ -1,3 +1,5 @@
 yuri resolusi
 - konsisten belajar edge computing
 - konsisten belajar AI
+- membuat server cloud computing
+- kolaborasi dengan banyak expert
